@@ -11,4 +11,4 @@
 - 📖 Ler;
 - ✝️ Ir à igreja.
 ## Estatísticas
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougPaz7&show_icons=true&theme=tokyonight)
+
