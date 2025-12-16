@@ -1,35 +1,51 @@
-# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" style="margin-left: auto;"/> <a href="https://git.io/typing-svg">
+# Olá, eu sou o [Seu Nome]! 👋
 
-# Skills
----
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+### Salesforce Developer | Apex | LWC | Cloud Enthusiast
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=tokyonight" height="170" alt="Stats do Github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&theme=tokyonight" height="170" alt="Linguagens mais usadas" />
 </div>
 
-# Estatísticas
 ---
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DougPaz7&show_icons=true&theme=tokyonight)
 
-# Hobbies
----
-- 🎸 Eu gosto de tocar violão e guitarra;
-- 📽️ Assistir filmes e animes;
-- 📖 Ler;
-- ✝️ Ir à igreja.
+### 👤 Sobre Mim
+- ☁️ Atualmente focado em transformar processos de negócios em soluções escaláveis no **Salesforce**.
+- 🛠️ Experiência com **Apex**, **Lightning Web Components (LWC)**, **Flow Builder** e integrações via **REST/SOAP**.
+- 🎓 [Sua Formação ou Certificação Atual]
+- 📫 Como me encontrar: **[Seu Link do LinkedIn]**
 
-# Contato
 ---
+
+### 🛠️ Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Salesforce Core** | Apex, LWC, Aura Components, Visualforce |
+| **Declarativo** | Flow Builder, Approval Processes, Validation Rules |
+| **Web & API** | JavaScript (ES6+), HTML5, CSS3, REST, JSON |
+| **Ferramentas** | VS Code (SFDX), Git, GitHub Actions, Copado |
+
+---
+
+### 🏆 Salesforce Ecosystem
 <div align="left">
-  <a href="https://www.linkedin.com/in/douglas-paz-0265a32b0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:linodouglas321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+  <img src="https://img.shields.io/badge/Trailhead-Ranger-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead Badge" />
+  <img src="https://img.shields.io/badge/Certification-Platform_Dev_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Certificação" />
 </div>
+
+> **Fun Fact:** "Se dá para fazer por Flow, por que estamos escrevendo Apex?" (Mas eu adoro um trigger bem escrito! ⚡)
+
+---
+
+### 📊 Github Stats
+![Contribuições de 2024](https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USUARIO-GITHUB]&theme=tokyonight)
+
+---
+
+<p align="center">
+  Conecte-se comigo: 
+  <a href="https://linkedin.com/in/[SEU-LINK]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
